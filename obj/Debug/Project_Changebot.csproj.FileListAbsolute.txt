@@ -1,0 +1,14 @@
+C:\Users\CCA011\source\repos\Project_Changebot\bin\Debug\Project_Changebot.exe.config
+C:\Users\CCA011\source\repos\Project_Changebot\bin\Debug\Project_Changebot.exe
+C:\Users\CCA011\source\repos\Project_Changebot\bin\Debug\Project_Changebot.pdb
+C:\Users\CCA011\source\repos\Project_Changebot\obj\Debug\Project_Changebot.csprojAssemblyReference.cache
+C:\Users\CCA011\source\repos\Project_Changebot\obj\Debug\Project_Changebot.csproj.CoreCompileInputs.cache
+C:\Users\CCA011\source\repos\Project_Changebot\obj\Debug\Project_Changebot.exe
+C:\Users\CCA011\source\repos\Project_Changebot\obj\Debug\Project_Changebot.pdb
+C:\Users\CCA010\source\repos\Project_Changebot\bin\Debug\Project_Changebot.exe.config
+C:\Users\CCA010\source\repos\Project_Changebot\bin\Debug\Project_Changebot.exe
+C:\Users\CCA010\source\repos\Project_Changebot\bin\Debug\Project_Changebot.pdb
+C:\Users\CCA010\source\repos\Project_Changebot\obj\Debug\Project_Changebot.csprojResolveAssemblyReference.cache
+C:\Users\CCA010\source\repos\Project_Changebot\obj\Debug\Project_Changebot.csproj.CoreCompileInputs.cache
+C:\Users\CCA010\source\repos\Project_Changebot\obj\Debug\Project_Changebot.exe
+C:\Users\CCA010\source\repos\Project_Changebot\obj\Debug\Project_Changebot.pdb
